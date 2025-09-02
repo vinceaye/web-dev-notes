@@ -1,0 +1,1 @@
+- An element without a closing tag is known as a **void element**.
